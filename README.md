@@ -120,7 +120,7 @@ InfluxDB, ElasticSearch 등 클라우드 환경에서는 시계열 DB가 유행�
   * Screen 설정
 
 * ### Grafana 대시보드 작성
-  * Grafan 설치
+  * Grafana 설치
   * Grafana 메뉴 구성 및 기본 설정
   * Zabbix & MySQL Plugin 설치 및 연동
   * DashBoard 꾸며보기
